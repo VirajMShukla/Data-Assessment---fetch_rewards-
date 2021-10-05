@@ -1,5 +1,6 @@
 # Data Assessment - fetch_rewards 
 
 
-### Viraj Shukla
+1. Viraj
+2. Shukla
  
